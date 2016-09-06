@@ -1,0 +1,28 @@
+{
+  "version": "0.1.0",
+  "name": "win10-location",
+  "description": "Windows 10 Geolocation API simplified, promisified, and prebuilt with NodeRT.",
+  "license": "WTFPL",
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "win",
+    "win10",
+    "windows",
+    "windows10",
+    "geo",
+    "location",
+    "geolocation"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/win10-location.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/win10-location/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/win10-location"
+}
