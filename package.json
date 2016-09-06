@@ -14,7 +14,8 @@
     "windows10",
     "geo",
     "location",
-    "geolocation"
+    "geolocation",
+    "windows.devices.geolocation"
   ],
   "main": "index.js",
   "repository": {
